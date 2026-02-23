@@ -6,11 +6,6 @@ An intelligent CSV analysis platform powered by Local LLM (Ollama).
 
 ## 📸 Demo Screenshots
 
-> ⚠️ Create a folder named `images` inside your project and add:
-> - dashboard.png
-> - visualization.png
-> - chat.png
-
 ### 📊 Dashboard
 # 1
 ![Dashboard](images/dash.png)
