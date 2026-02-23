@@ -8,11 +8,11 @@ An intelligent CSV analysis platform powered by Local LLM (Ollama).
 
 ### 📊 Dashboard
 # 1
-![Dashboard](images/dash.png)
+![Dashboard_1](images/dash.png)
 # 2
-![Dashboard](images/dashboard.png)
+![Dashboard_2](images/dashboard.png)
 # 3
-![Dashboard](images/dash2.png)
+![Dashboard_3](images/dash2.png)
 
 ---
 
